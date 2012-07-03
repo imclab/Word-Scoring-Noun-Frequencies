@@ -1,0 +1,6 @@
+brown corpora, analyzing 62068 nouns,    assigned scores to 10633 nouns
+reuters corpora, analyzing 62068 nouns,    assigned scores to 5577 nouns
+treebank corpora, analyzing 62068 nouns,    assigned scores to 2540 nouns
+gutenberg corpora, analyzing 62068 nouns,    assigned scores to 9115 nouns
+wiki-gut corpora, analyzing 62068 nouns,    assigned scores to 50643 nouns
+wiki corpora, analyzing 62068 nouns,    assigned scores to 47478 nouns
