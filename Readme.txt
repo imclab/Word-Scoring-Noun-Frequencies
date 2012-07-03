@@ -76,7 +76,7 @@ CORPORA NOTE:
 This program uses 4 nltk corpora, described above, and 2 wikipedia related corpora, see description below.
 
 This distribution contains two text files in the folder 'freq_list', created by
-Richard Mardse, on April 12, 2012
+Richard Mardsen, on April 12, 2012
 His files may be found at:
 http://www.monlp.com/2012/04/16/calculating-word-and-n-gram-statistics-from-a-wikipedia-corpora/
 combined_wordfreq.txt -- wikipedia + gutenberg corpus word frequencies
